@@ -1,0 +1,7 @@
+﻿  myVector.cpp
+Vector.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __cdecl myVector<int>::myVector<int>(void)" (??0?$myVector@H@@QEAA@XZ) в функции main.
+Vector.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl myVector<int>::push_back(int const &)" (?push_back@?$myVector@H@@QEAAXAEBH@Z) в функции main.
+Vector.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl myVector<int>::insert(int const &,int)" (?insert@?$myVector@H@@QEAAXAEBHH@Z) в функции main.
+Vector.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: int __cdecl myVector<int>::find(int const &)" (?find@?$myVector@H@@QEAAHAEBH@Z) в функции main.
+Vector.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __cdecl myVector<int>::print(void)" (?print@?$myVector@H@@QEAAXXZ) в функции main.
+D:\С++ labs and srs\repos\Vector\x64\Debug\Vector.exe : fatal error LNK1120: неразрешенных внешних элементов: 5

@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\cpp-data-structures-and-algorythms\github\data-structures\LinkedList\LinkedList\main.cpp(12,44): error C2143: синтаксическая ошибка: отсутствие ")" перед "="
+D:\cpp-data-structures-and-algorythms\github\data-structures\LinkedList\LinkedList\main.cpp(12,57): error C2059: синтаксическая ошибка: )
+D:\cpp-data-structures-and-algorythms\github\data-structures\LinkedList\LinkedList\main.cpp(12,58): error C2440: =: невозможно преобразовать "int" в "LinkedList<int> *"
+D:\cpp-data-structures-and-algorythms\github\data-structures\LinkedList\LinkedList\main.cpp(12,44): message : Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+  LinkedList.cpp
+  LinkedListNode.cpp
+  Создание кода...
